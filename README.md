@@ -1,7 +1,7 @@
 ## Getting Started
 
 Aula 01 - Consumo de API de filmes.
-Aula 02 - 
+Aula 02 - Gerando figurinhas
 
 
 ## Estrutura do projeto - Imersão Java
